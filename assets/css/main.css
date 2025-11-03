@@ -639,7 +639,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   background: url(../img/hero-bg.jpg) top center no-repeat;
-  background-size: cover;
+  background-size: contain;
   width: 100%;
   min-height: 90vh;
   position: relative;
